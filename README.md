@@ -3,7 +3,7 @@
 Code Samples:
 
 Activities:
-- Depth Analyzer
+- Depth Measurement
 - File Joiner
 - OOP POS v1
 - Syntax Analyzer
