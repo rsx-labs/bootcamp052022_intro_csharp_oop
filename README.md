@@ -1,2 +1,12 @@
-# bootcamp052022_intro_csharp_oop
-Bootcamp 05-2022 examples and activities on C# and OOP
+# Bootcamp 05-2022 : Intro to C# and OOP
+
+Code Samples:
+
+Activities:
+- Depth Analyzer
+- File Joiner
+- OOP POS v1
+- Syntax Analyzer
+- OOP POS v2
+
+
